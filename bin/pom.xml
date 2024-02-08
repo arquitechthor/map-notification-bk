@@ -8,7 +8,7 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.map</groupId>
+	<groupId>com.arquitecthor</groupId>
 	<artifactId>notification</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>notification</name>
@@ -85,4 +85,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
