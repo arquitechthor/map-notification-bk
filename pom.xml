@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.map</groupId>
-	<artifactId>notification</artifactId>
+	<artifactId>map-notification-bk</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>notification</name>
 	<description>This microservice send emails and using Kafka with an Hexagonal Architecture</description>
